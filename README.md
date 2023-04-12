@@ -1,14 +1,12 @@
-<!-- INTRO AND IMAGE -->
-
 > ## 👤 About Me
 
 <h1 align="center">
-Hello world ! I'm <span style="color:yellow;">Deepak Namdev</span></br>aka <span style="color:white;">cyraxx</span> || <span style="color:white;">Zimix</span> || <span style="color:white;">rexc  </span>    <img  src="https://cdn.discordapp.com/emojis/627547441314660367.gif"  width="50">
+Hello world ! I'm <span style="color:yellow;">Deepak Namdev</span><br>aka <span style="color:white;">cyraxx</span> || <span style="color:white;">Zimix</span> || <span style="color:white;">rexc  </span><img  src="https://cdn.discordapp.com/emojis/627547441314660367.gif"  width="50">
 </h1>
 <br>
 
 <p  align="center">
-<a  href="https://github.com/cyr4xx69"><img  src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3200&pause=9000&color=cc00ff&center=true&width=500&height=50&lines=Computer+Science;JavaScript+/+Python;Always+Learning;Self+Taught;Seeking new experiences;Practicing+Gratitude;"></a>
+<a  href="https://github.com/cyr4xx69"><img  src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3200&pause=9000&color=cc00ff&center=true&width=500&height=50&lines=Computer+Science;JavaScript+/+Python;Always+Learning;Self+Taught;Seeking+new+experiences;Practicing+Gratitude;"></a>
 </p>
 <br>
 <hr/>
@@ -243,15 +241,16 @@ Hello world ! I'm <span style="color:yellow;">Deepak Namdev</span></br>aka <span
 <hr/>
 <br>
 
+
 ![status](https://dev.discordprofiles.me/badge/status/510096668633464843?simple=true)
 ![playing](https://dev.discordprofiles.me/badge/playing/510096668633464843)
 ![vscode](https://dev.discordprofiles.me/badge/vscode/510096668633464843)
-[![spotify](https://dev.discordprofiles.me/badge/spotify/510096668633464843)](https://dev.discordprofiles.me/openspotify/510096668633464843)
+[![spotify](https://dev.discordprofiles.me/badge/spotify/510096668633464843)](https://dev.discordprofiles.me/openspotify/510096668633464843)<!-- INTRO AND IMAGE -->
 
 <p  align="center">
 <a  href="https://discord.com/users/510096668633464843"  target="_blank">
 
-<img  width="40%"  align="center"  alt="Discord Status"  src="https://lanyard.cnrad.dev/api/510096668633464843?theme=dark&bg=26002f&borderRadius=10px&idleMessage=Prolly%20doing%20something.">
+<img  width="60%"  align="center"  alt="Discord Status"  src="https://lanyard.cnrad.dev/api/510096668633464843?theme=dark&bg=26002f&borderRadius=10px&idleMessage=Prolly%20doing%20something.">
 
 </a>
 </p>
