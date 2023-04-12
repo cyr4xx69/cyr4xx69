@@ -37,7 +37,7 @@ Hello world ! I'm <span style="color:yellow;">cyraxx</span><br>aka <span style="
      <img alt="JavaScript" src="https://img.shields.io/badge/javascript-FFC000?style=for-the-badge&logo=javascript&logoColor=white">
    </a> 
   &emsp;
-      <a href="https://www.https://www.python.org/" target="_blank"> 
+      <a href="https://www.python.org/" target="_blank"> 
      <img alt="Python" src="https://img.shields.io/badge/python-%23007ACC.svg?style=for-the-badge&logo=python&logoColor=white">
    </a>
    &emsp;
@@ -52,7 +52,7 @@ Hello world ! I'm <span style="color:yellow;">cyraxx</span><br>aka <span style="
      <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
   </a>
   &emsp;
-      <a href="https://https://www.postgresql.org/" target="_blank"> 
+      <a href="https://www.postgresql.org/" target="_blank"> 
      <img alt="MongoDB" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
   </a>
   &emsp;
@@ -202,8 +202,7 @@ Hello world ! I'm <span style="color:yellow;">cyraxx</span><br>aka <span style="
 <p align="center">
   <br>
          &emsp;
-         <a href=" https://discord.gg/PYxf8YS" target="_blank">
-      <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+         <a href=" https://discord.gg/PYxf8YS"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
 <br>
 <br>
   &emsp;
