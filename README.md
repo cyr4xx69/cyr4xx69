@@ -1,12 +1,12 @@
 > ## 👤 About Me
 
 <h1 align="center">
-Hello world ! I'm <span style="color:yellow;">Deepak Namdev</span><br>aka <span style="color:white;">cyraxx</span> || <span style="color:white;">Zimix</span> || <span style="color:white;">rexc  </span><img  src="https://cdn.discordapp.com/emojis/627547441314660367.gif"  width="50">
+Hello world ! I'm <span style="color:yellow;">cyraxx</span><br>aka <span style="color:white;"></span><span style="color:white;">Zimix</span> || <span style="color:white;">rexc  </span><img  src="https://cdn.discordapp.com/emojis/627547441314660367.gif"  width="35">
 </h1>
 <br>
 
 <p  align="center">
-<a  href="https://github.com/cyr4xx69"><img  src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3200&pause=9000&color=cc00ff&center=true&width=500&height=50&lines=Computer+Science;JavaScript+/+Python;Always+Learning;Self+Taught;Seeking+new+experiences;Practicing+Gratitude;"></a>
+<a  href="https://github.com/cyr4xx69"><img  src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3200&pause=900&color=cc00ff&center=true&width=500&height=50&lines=Computer+Science;JavaScript+/+Python;Always+Learning;Self+Taught;Seeking+new+experiences;Practicing+Gratitude"></a>
 </p>
 <br>
 <hr/>
